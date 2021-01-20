@@ -17,4 +17,3 @@ new_array << smallest_number
 row_index += 1 
 end 
 new_array
-end 
